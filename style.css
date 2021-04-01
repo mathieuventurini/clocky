@@ -46,11 +46,14 @@ body{
     font-size: 3.5rem;
     color: hsl(345, 95%, 68%);
     font-weight: 700;
+
 }
+
 
 
 #minute{
 
     margin-left: 13px;
     margin-right: 13px;
+
 }
